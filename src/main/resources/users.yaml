@@ -1,0 +1,14 @@
+- name: gholi
+  age: 18
+  city: tehran
+  albums:
+    - tekunbede
+    - barf
+    - hoyad
+- name: mehdi
+  age: 20
+  city: mashhad
+  albums:
+    - eclipse
+    - barf
+    - hoyad36
